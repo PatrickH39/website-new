@@ -19,8 +19,8 @@ I'm Patrick Huynh, a civil engineering student at [University of British Columbi
 
 Currently, I'm a Ground Station Hardware Developer for [UBC Orbit](https://www.ubcorbit.com/), where we're building a satellite named ALEASAT to assist with disaster relief by providing on-demand satellite imagery to amateur radio operators.
 
-I hold a basic with honours amateur radio operator license (callsign `VA7PKH`). My work in the COMMS subteam involves helping get our satellite licensed by Global Affairs Canada and setting up the Ground Station at the [Radio Science Lab](https://rsl.ece.ubc.ca/)!
+My work in the COMMS subteam involves helping get our satellite licensed by Global Affairs Canada and setting up the Ground Station at the [Radio Science Lab](https://rsl.ece.ubc.ca/)! My callsign is `VA7PKH`.
 
-I also work as a Service Desk Analyst for [AgeCare](https://www.agecare.ca), where I take on a range of IT projects. Here, I've lead cybersecurity training initiatives, developed internal web applications for employees, and streamlined processes to make workflows smoother—reducing operational costs.
+I'm also a Service Desk Analyst for [AgeCare](https://www.agecare.ca), where I take on a range of IT projects. Here, I've lead cybersecurity training initiatives, developed internal web applications for employees, and streamlined processes to make workflows smoother—reducing operational costs.
 
 Check out the [projects](/projects) on my site or connect with me on [LinkedIn](https://www.linkedin.com/in/patricklbh)!
