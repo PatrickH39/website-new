@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/assets/pdf/Patrick_Huynh.pdf";
-          },
         },{id: "projects-camtag",
           title: 'CamTag',
           description: "a portable safety device prototyped during Shad 2022 @ TMU",
