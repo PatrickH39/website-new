@@ -17,13 +17,12 @@ shortcuts:
 
 > **How are we going to run Clubs Day when we can’t gather in person?**
 
-## Project Overview
 
 When the COVID-19 pandemic hit, in-person Clubs Day at David Thompson (my high school) was no longer possible. To bridge this gap, I helped Student Council develop an **online Clubs Day platform** - a digital space where students could **explore, connect, and join clubs** safely from home.
 
 
 
-<div class="row">
+<div class="row" style="margin-top: 2em;">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/clubsday-landing.png" title="Clubs Day Landing" class="img-fluid rounded z-depth-1" %}
     </div>
