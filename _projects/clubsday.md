@@ -62,7 +62,7 @@ We then reached out to club executives and their teacher sponsors to submit key 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/clubsday-club.png" title="Clubs Day Landing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/clubsday-club.png" title="Club Selection" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
