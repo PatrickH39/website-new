@@ -28,7 +28,7 @@ ninja.data = [{
               window.location.href = "/projects/clubsday.html";
             },},{id: "projects-epaper-transit-board",
           title: 'ePaper Transit Board',
-          description: "low-power e-ink screen displaying real-time route information nearby",
+          description: "A low-power e-ink dashboard displaying real-time transit and schedule info.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/epaper.html";
             },},{id: "projects-ai-powered-iot-parking-meter",
