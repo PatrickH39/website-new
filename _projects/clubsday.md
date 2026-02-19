@@ -11,7 +11,7 @@ shortcuts:
     link: https://github.com/PatrickH39/DT-Clubs-Day
   - name: Website
     icon: fa-solid fa-globe
-    link: https://dtclubsday.ca
+    link: https://clubsday.patrickh.ca
 
 ---
 
